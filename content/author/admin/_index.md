@@ -85,11 +85,11 @@ user_groups = ["Researchers"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "sbmaruf@gmail.com_1.pdf"
 
 +++
 
-I am M Saiful Bari. You may call me Maruf. I am a computer science enthusiast doing Phd in Natural Language Processing under [Prof. Dr. Shafiq Joty](https://raihanjoty.github.io/). My research objective is developing deep models that have the notion of humanity. 
+I am `M Saiful Bari`. You may call me `Maruf`. I am a computer science enthusiast doing PhD in `Natural Language Processing` under [Prof. Dr. Shafiq Joty](https://raihanjoty.github.io/) in his lab [NTU-NLP](https://ntunlpsg.github.io/). My research objective is to develop deep models that have the notion of humanity. /
