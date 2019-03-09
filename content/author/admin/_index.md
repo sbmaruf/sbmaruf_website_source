@@ -53,10 +53,31 @@ user_groups = ["Researchers"]
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
+# [[social]]
+#   icon = "google-scholar"
+#   icon_pack = "ai"
+#   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/sbmaruf"
+
+[[social]]
+  icon = "stack-overflow"
+  icon_pack = "fab"
+  link = "https://stackoverflow.com/users/2277037/maruf"
+
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
   link = "mailto:bari0001@e.ntu.edu.sg"  # For a direct email link, use "mailto:test@example.org".
+
+[[social]]
+  icon = "linkedin-in"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/sbmaruf/"
+
 
 [[social]]
   icon = "twitter"
@@ -68,20 +89,7 @@ user_groups = ["Researchers"]
   icon_pack = "fab"
   link = "https://facebook.com/m.sbmaruf"
 
-[[social]]
-  icon = "stackoverflow"
-  icon_pack = "fab"
-  link = "https://stackoverflow.com/users/2277037/maruf"
 
-# [[social]]
-#   icon = "google-scholar"
-#   icon_pack = "ai"
-#   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/sbmaruf"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -92,4 +100,4 @@ user_groups = ["Researchers"]
 
 +++
 
-I am `M Saiful Bari`. You may call me `Maruf`. I am a computer science enthusiast doing PhD in `Natural Language Processing` under [Prof. Dr. Shafiq Joty](https://raihanjoty.github.io/) in his lab [NTU-NLP](https://ntunlpsg.github.io/). My research objective is to develop deep models that have the notion of humanity. /
+I am `M Saiful Bari`. You may also call me `Maruf`. I am a computer science enthusiast doing PhD in `Natural Language Processing` under [Prof. Dr. Shafiq Joty](https://raihanjoty.github.io/) in his lab [NTU-NLP](https://ntunlpsg.github.io/). My research objective is to develop deep models that have the notion of humanity.

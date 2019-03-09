@@ -22,15 +22,15 @@ weight = 30
   description = ""
   
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "Language"
-
-[[feature]]
   icon = "cuttlefish"
   icon_pack = "fab"
   name = "C/C++"
+  description = "Language"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
   description = "Language"
 
 +++
