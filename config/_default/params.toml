@@ -68,7 +68,7 @@ office_hours = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/sbmaruf"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:kryptonyte41?call"},
-  {icon = "facebook", icon_pack = "fab", name = "Chat on Keybase", link = "https://www.facebook.com/m.sbmaruf"}
+  {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/m.sbmaruf"}
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
@@ -131,7 +131,7 @@ sharing = true
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "January 2, 2006"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"

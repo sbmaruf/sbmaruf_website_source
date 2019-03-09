@@ -11,7 +11,7 @@ weight = 40
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "January 2, 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -19,27 +19,58 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  title = "Research Assistant"
+  company = "Nanyang Technological University"
+  company_url = "http://scse.ntu.edu.sg/Pages/Home.aspxA"
+  location = "Singapore"
+  date_start = "2017-09-15"
+  date_end = "2018-08-27"
+  description = """Doing Research on Natural Language Processing.<br>
+  Responsibilities include:<br>
+  * Research on MT, NER and Adversarial Training.<br>
+  * Maintain internal GPU servers<br>
+  * Maintain group web-site
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Phd Student"
+  company = "Nanyang Technological University"
+  company_url = "http://scse.ntu.edu.sg/Pages/Home.aspxA"
+  location = "Singapore"
+  date_start = "2019-01-15"
+  date_end = ""
+  description = """Doing research on Deep NLP models."""
+
+[[experience]]
+  title = "Lecturer"
+  company = "Southeast University"
+  company_url = "https://seu.edu.bd/"
+  location = "Bangladesh"
+  date_start = "2017-06-15"
+  date_end = "2017-09-15"
+  description = """Teaching undergradute CS student.<br>
+  Subject tought:<br>
+  * Introduction to C <br>
+  * Algorithms <br>
+  """
+
+[[experience]]
+  title = "Software Engineering Intern"
+  company = "Aubichol IT Limited"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Bangladesh"
+  date_start = "2018-09-15"
+  date_end = "2019-01-06"
+  description = """Worked on an early startup where the key responsibility was to design the architecture of sports analytic and Translation System.
+  """
+
+[[experience]]
+  title = "Software Engineering Intern"
+  company = "XeonBD"
+  company_url = "https://www.xeonbd.com/"
+  location = "Bangladesh"
+  date_start = "2015-11-01"
+  date_end = "2015-12-31"
+  description = """Worked on kernel virtualization and cloud computing."""
 
 +++

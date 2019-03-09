@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "M Saiful Bari"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,44 +9,44 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "PhD Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Nanyang Technological University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Computer Science enthusiast working in deep learning, natural language processing."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "bari0001@e.ntu.edu.sg"
 
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Deep Learning",
+  "Natural Language Processing"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+user_groups = ["Researchers"]
 
 # List qualifications (such as academic degrees)
+# [[education.courses]]
+#   course = "PhD in Artificial Intelligence"
+#   institution = "Stanford University"
+#   year = 2012
+
+# [[education.courses]]
+#   course = "MEng in Artificial Intelligence"
+#   institution = "Massachusetts Institute of Technology"
+#   year = 2009
+
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "BSc in Computer Science and Engineering"
+  institution = "Islamic University of Technology"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,22 +56,32 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:bari0001@e.ntu.edu.sg"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/sbmaruf"
 
 [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  icon = "facebook"
+  icon_pack = "fab"
+  link = "https://facebook.com/m.sbmaruf"
+
+[[social]]
+  icon = "stackoverflow"
+  icon_pack = "fab"
+  link = "https://stackoverflow.com/users/2277037/maruf"
+
+# [[social]]
+#   icon = "google-scholar"
+#   icon_pack = "ai"
+#   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/sbmaruf"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +92,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am M Saiful Bari. You may call me Maruf. I am a computer science enthusiast doing Phd in Natural Language Processing under [Prof. Dr. Shafiq Joty](https://raihanjoty.github.io/). My research objective is developing deep models that have the notion of humanity. 
