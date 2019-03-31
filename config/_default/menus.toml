@@ -18,15 +18,15 @@
   url = "#experience"
   weight = 30
 
-# [[main]]
-#   name = "Projects"
-#   url = "#projects"
-#   weight = 30
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 30
 
-# [[main]]
-#   name = "Publications"
-#   url = "#featured"
-#   weight = 40
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 40
 
 # [[main]]
 #   name = "Tutorials"
@@ -43,4 +43,8 @@
 [[main]]
    name = "CV"
    url = "sbmaruf@gmail.com_1.pdf"
+   weight = 70
+[[main]]
+   name = "News"
+   url = "/post/news"
    weight = 70
