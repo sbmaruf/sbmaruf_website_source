@@ -13,7 +13,7 @@ summary = "C++ implementation of various algorithms."
 tags = ["Algorithms"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/sbmaruf/Algorithms-Code-Library"
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
