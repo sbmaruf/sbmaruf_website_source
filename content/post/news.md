@@ -7,7 +7,7 @@ date = 2019-01-25T00:00:00
 <table class="tg">
   <tr>
     <th class="tg-s268">15-June-2019</th>
-    <th class="tg-s268">A [paper](https://arxiv.org/abs/1905.05682) accepted on ACL 2019. </th>
+    <th class="tg-s268">A  <a href="https://arxiv.org/abs/1905.05682">paper</a> accepted on ACL 2019. </th>
   </tr>
   <tr>
     <th class="tg-s268">25-Jan-2019</th>
