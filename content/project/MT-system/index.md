@@ -3,7 +3,7 @@
 title = "Malay-English Neural Machine Translation System."
 
 # Date this page was created.
-date = 2017-06-12T00:00:00
+date = 2019-01-25T00:00:00
 
 # Project summary to display on homepage.
 summary = "This is a tool to translate an English sentence into Malay and vice versa."
