@@ -50,7 +50,7 @@ url_pdf = "https://arxiv.org/abs/1905.05682"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Website", url = "https://ntunlpsg.github.io/project/parser/pointer-net-parser/2"}]
+links = [{name = "Website", url = "https://ntunlpsg.github.io/project/parser/pointer-net-parser"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
