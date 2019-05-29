@@ -7,6 +7,10 @@ date = 2019-01-25T00:00:00
 <table class="tg">
   <tr>
     <th class="tg-s268">25-Jan-2019</th>
+    <th class="tg-s268">A [paper](https://arxiv.org/abs/1905.05682) accepted on ACL 2019. </th>
+  </tr>
+  <tr>
+    <th class="tg-s268">25-Jan-2019</th>
     <th class="tg-s268">Shows <a href="https://ntunlpsg.github.io/project/malay-english-neural-machine-translator/">MT</a> system to industry and government stakeholders.</th>
   </tr>
   <tr>
