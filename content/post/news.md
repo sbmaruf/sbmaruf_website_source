@@ -6,6 +6,10 @@ date = 2019-01-25T00:00:00
 
 <table class="tg">
   <tr>
+    <th class="tg-s268">11-Nov-2019</th>
+    <th class="tg-s268">A  paper accepted on AAAI 2020. </th>
+  </tr>
+  <tr>
     <th class="tg-s268">15-Jun-2019</th>
     <th class="tg-s268">A  <a href="https://arxiv.org/abs/1905.05682">paper</a> accepted on ACL 2019. </th>
   </tr>
