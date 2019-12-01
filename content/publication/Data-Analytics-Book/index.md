@@ -45,7 +45,7 @@ tags = ["regression", "data-analytics", "book"]
 projects = []
 
 # Links (optional).
-url_pdf = "https://books.google.com.sg/books?id=cjduDwAAQBAJ&pg=PT58&lpg=PT58&dq=M+Saiful+Bari&source=bl&ots=um4Ki8kY1n&sig=ACfU3U2tovda4-bva1BSWmfQDzclIHBw2A&hl=bn&sa=X&ved=2ahUKEwjXk5D7zKvhAhXGEHIKHTToAv04ChDoATAKegQIBxAB#v=onepage&q=M%20Saiful%20Bari&f=false"
+url_pdf = ""
 
 
 # Custom links (optional).

@@ -17,8 +17,8 @@ authors = ["M Saiful Bari", "Shafiq Joty", "Prathyusha Jwalapuram"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Association for Computational Linguistics"
-publication_short = "ACL"
+publication = "Proceedings of the 34th AAAI Conference on Artifical Intelligence"
+publication_short = "AAAI-2020"
 
 # Abstract.
 abstract = "Recently, neural methods have achieved state-of-the-art (SOTA) results in Named Entity Recognition (NER) tasks for many languages without the need for manually crafted features. However, these models still require manually annotated training data, which is not available for many languages. In this paper, we propose an unsupervised cross-lingual NER model that can transfer knowledge from one language to another in a completely unsupervised way without relying on any bilingual dictionary or parallel data. Our model achieves this through word-level adversarial learning and augmented fine-tuning with parameter sharing and feature augmentation. Experiments on four different languages demonstrate the effectiveness of our approach, outperforming existing models by a good margin and setting a new SOTA for each language pair."
@@ -45,7 +45,7 @@ tags = ["deep-learning"]
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://arxiv.org/abs/1911.09812"
 
 
 # Custom links (optional).
