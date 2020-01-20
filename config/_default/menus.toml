@@ -42,7 +42,7 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   url = "sbmaruf@gmail.com_1.pdf"
+   url = "bari0001@e.ntu.edu.sg.pdf"
    weight = 70
 [[main]]
    name = "News"
