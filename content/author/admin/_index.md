@@ -100,4 +100,4 @@ user_groups = ["Researchers"]
 
 +++
 
-I am `M Saiful Bari`. You may also call me `Maruf`. I am a computer science enthusiast doing PhD in `Natural Language Processing` under [Prof. Dr. Shafiq Joty](https://raihanjoty.github.io/) in his lab [NTU-NLP](https://ntunlpsg.github.io/). My research objective is to develop deep models that have the notion of humanity.
+I am `M Saiful Bari`. You may also call me `Maruf`. I am a computer science enthusiast doing PhD in `Natural Language Processing` under [Prof. Dr. Shafiq Joty](https://raihanjoty.github.io/) in his lab [NTU-NLP](https://ntunlpsg.github.io/). My research objective is to develop deep models that have the notion of humanity. I spend a huge amount of time and effort to explore unsupervised training and their possible contribution to generalizability and bias of the Multilingual Language Model. 
