@@ -18,19 +18,21 @@ weight = 30
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Algorithms and Data structure, Deep Learning"
+  name = "Deep Learning, Algorithms and Data structure"
   description = ""
-  
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Language"
+
 [[feature]]
   icon = "cuttlefish"
   icon_pack = "fab"
   name = "C/C++"
   description = "Language"
   
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "Language"
+
 
 +++

@@ -42,7 +42,7 @@ tags = ["Deep-Learning"]
 slides = "xxxx"
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "https://drive.google.com/file/d/1rzX97LRgtQdg6YmVeAq92oLqXGCEjhpb/view"
+url_slides = "https://drive.google.com/file/d/1n-wE1kBiwnCbb-oQ7JlXtmWB63KwCxoU/view?usp=sharing"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -53,7 +53,7 @@ url_slides = "https://drive.google.com/file/d/1rzX97LRgtQdg6YmVeAq92oLqXGCEjhpb/
 projects = ["Deep-Learning"]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1rzX97LRgtQdg6YmVeAq92oLqXGCEjhpb/view"
+url_pdf = "https://drive.google.com/file/d/1n-wE1kBiwnCbb-oQ7JlXtmWB63KwCxoU/view?usp=sharing"
 url_video = ""
 url_code = ""
 
