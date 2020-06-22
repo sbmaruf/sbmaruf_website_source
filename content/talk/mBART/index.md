@@ -24,7 +24,7 @@ event_url = "https://ntunlpsg.github.io/post/reading-group/"
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "This talk summarizes the paper [`mBART`](https://arxiv.org/abs/1702.02098) and some pretraining concepts."
+summary = "This talk summarizes the paper [`mBART`](https://arxiv.org/abs/2001.08210) and some pretraining concepts."
 
 # Is this a featured talk? (true/false)
 featured = false
