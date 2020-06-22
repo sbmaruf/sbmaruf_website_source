@@ -7,12 +7,17 @@ date = 2019-01-25T00:00:00
 
 <table class="tg">
   <tr>
-    <th class="tg-s268" width="20%">28-April</th>
+    <th class="tg-s268" width="20%">28-Apr</th>
     <th class="tg-s268">Preprint of our new paper <a href="https://arxiv.org/abs/2004.13889">LNMap</a> released in Arxiv. </th>
   </tr>
     <tr>
-    <th class="tg-s268" width="20%">24-April</th>
+    <th class="tg-s268" width="20%">24-Apr</th>
     <th class="tg-s268">Preprint of our new paper <a href="https://arxiv.org/abs/2004.13240">MultiMix</a> released in Arxiv. </th>
+  </tr>
+  </tr>
+    <tr>
+    <th class="tg-s268" width="20%">25-Mar</th>
+    <th class="tg-s268">Gave a talk on  <a href="https://www.dropbox.com/s/ggnfgzoeo90ck1k/mBART.pdf">mBART</a>  (<a href="https://arxiv.org/abs/2001.08210">paper</a> ) in NTU-NLP. </th>
   </tr>
   <tr>
     <th class="tg-s268" width="20%">13-Feb</th>
@@ -34,7 +39,7 @@ date = 2019-01-25T00:00:00
   <table class="tg">
   <tr>
     <th class="tg-s268" width="20%">9-Nov</th>
-    <th class="tg-s268">I will be a Teaching Assistant, for Graduate <a href="https://ntunlpsg.github.io/deep-nlp/"> Deep Learning Course of NLP </a>, NTU</th>
+    <th class="tg-s268">I will be a Teaching Assistant, for Graduate <a href="https://ntunlpsg.github.io/ce7455_deep-nlp-20/"> Deep Learning Course of NLP </a>, NTU</th>
   </tr>
   <tr>
     <th class="tg-s268">11-Nov</th>

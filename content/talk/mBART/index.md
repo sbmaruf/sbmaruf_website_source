@@ -1,14 +1,14 @@
 +++
-title = "Encode Decode Architecture"
+title = "mBART: pretraining seq2seq architecture"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2018-03-14T10:30:00Z
-date_end = 2018-03-14T11:30:00Z
+date = 2020-04-25T11:30:00Z
+date_end = 2018-04-25T12:30:00Z
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2018-03-14
+publishDate = 2018-04-25
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -24,14 +24,14 @@ event_url = "https://ntunlpsg.github.io/post/reading-group/"
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "This talk summarizes the paper [`Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation`](https://arxiv.org/abs/1406.1078)."
+summary = "This talk summarizes the paper [`mBART`](https://arxiv.org/abs/1702.02098)."
 
 # Is this a featured talk? (true/false)
 featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Deep-Learning"]
+tags = ["deep-learning", "language-model", "machine-translation"]
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -42,7 +42,7 @@ tags = ["Deep-Learning"]
 slides = "xxxx"
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "https://drive.google.com/file/d/1RYUV3YmPrVoRTujaJ0kt6jyD6-4a8Zie/view"
+url_slides = "https://www.dropbox.com/s/ggnfgzoeo90ck1k/mBART.pdf"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -50,10 +50,10 @@ url_slides = "https://drive.google.com/file/d/1RYUV3YmPrVoRTujaJ0kt6jyD6-4a8Zie/
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["deep-learning", "machine-translation"]
+projects = ["deep-Learning", "cross-lingual", "language-model", "machine-translation"]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1RYUV3YmPrVoRTujaJ0kt6jyD6-4a8Zie/view"
+url_pdf = "https://www.dropbox.com/s/ggnfgzoeo90ck1k/mBART.pdf"
 url_video = ""
 url_code = ""
 
@@ -70,6 +70,8 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
+
+This talk goes though the pretraining objectives of seq2seq architecture. It also discusses, how mBART is different from pretraining of XLM and it's derivatives?  
 
 <!-- {{% alert note %}}
 Click on the **Slides** button above to view the built-in slides feature.

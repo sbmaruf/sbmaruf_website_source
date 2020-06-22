@@ -50,7 +50,7 @@ url_slides = "https://drive.google.com/file/d/1rzX97LRgtQdg6YmVeAq92oLqXGCEjhpb/
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["Deep-Learning"]
+projects = ["deep-learning", "machine-translation"]
 
 # Links (optional).
 url_pdf = "https://drive.google.com/file/d/1rzX97LRgtQdg6YmVeAq92oLqXGCEjhpb/view"
