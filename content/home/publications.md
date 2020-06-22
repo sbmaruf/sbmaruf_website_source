@@ -14,7 +14,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 2
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -66,5 +66,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Quickly discover relevant content by <a href="{{< ref "/publication/_index.md" >}}">filtering publications</a>
 {{% /alert %}}

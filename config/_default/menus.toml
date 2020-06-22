@@ -31,7 +31,7 @@
 [[main]]
   name = "Talk"
   url = "#talks"
-  weight = 50
+  weight = 35
 
 # [[main]]
 #   name = "Contact"

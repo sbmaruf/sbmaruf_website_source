@@ -34,7 +34,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["deep-learning"]
+tags = ["deep-learning", "cross-lingual", "word-embedding"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -50,7 +50,7 @@ url_pdf = "https://arxiv.org/abs/1911.09812"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Website", url = ""}]
+links = [{name = "Paper", url = "http://aaai.org/Papers/AAAI/2020GB/AAAI-BariM.7577.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

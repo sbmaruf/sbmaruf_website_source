@@ -39,14 +39,14 @@ user_groups = ["Researchers"]
 #   year = 2012
 
 # [[education.courses]]
-#   course = "MEng in Artificial Intelligence"
-#   institution = "Massachusetts Institute of Technology"
-#   year = 2009
+#  course = "Ph.D. in Natural Language Processing"
+#  institution = "Nanyang Technological University"
+#  year = Current
 
 [[education.courses]]
-  course = "BSc in Computer Science and Engineering"
+  course = "B.Sc in Computer Science and Engineering"
   institution = "Islamic University of Technology"
-  year = 2012
+  year = 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -96,8 +96,8 @@ user_groups = ["Researchers"]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "sbmaruf@gmail.com_1.pdf"
+  link = "bari0001@e.ntu.edu.sg.pdf"
 
 +++
 
-I am `M Saiful Bari`. You may also call me `Maruf`. I am a computer science enthusiast doing PhD in `Natural Language Processing` under [Prof. Dr. Shafiq Joty](https://raihanjoty.github.io/) in his lab [NTU-NLP](https://ntunlpsg.github.io/). My research objective is to develop deep models that have the notion of humanity (brain motivated). I spend a huge amount of time and effort to explore unsupervised training and their possible contribution to generalizability and bias of the Multilingual Language Model. 
+I am `M Saiful Bari`. You may also call me `Maruf`. I am a computer science enthusiast doing Ph.D. in `Natural Language Processing` under [Prof. Dr. Shafiq Joty](https://raihanjoty.github.io/) in his lab [NTU-NLP](https://ntunlpsg.github.io/). My research objective is to develop deep models that have the notion of humanity (brain motivated). I spend a huge amount of time and effort to explore unsupervised training and their possible contribution to generalizability and bias of the Multilingual Language Model. 

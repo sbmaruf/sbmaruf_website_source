@@ -7,7 +7,15 @@ date = 2019-01-25T00:00:00
 
 <table class="tg">
   <tr>
-    <th class="tg-s268">13-Feb</th>
+    <th class="tg-s268" width="20%">28-April</th>
+    <th class="tg-s268">Preprint of our new paper <a href="https://arxiv.org/abs/2004.13889">LNMap</a> released in Arxiv. </th>
+  </tr>
+    <tr>
+    <th class="tg-s268" width="20%">24-April</th>
+    <th class="tg-s268">Preprint of our new paper <a href="https://arxiv.org/abs/2004.13240">MultiMix</a> released in Arxiv. </th>
+  </tr>
+  <tr>
+    <th class="tg-s268" width="20%">13-Feb</th>
     <th class="tg-s268">Presenting <a href="https://arxiv.org/abs/1911.09812">our Cross-lingual-NER</a> paper on AAAI-2020. </th>
   </tr>
   <tr>
@@ -25,7 +33,7 @@ date = 2019-01-25T00:00:00
 
   <table class="tg">
   <tr>
-    <th class="tg-s268">9-Nov</th>
+    <th class="tg-s268" width="20%">9-Nov</th>
     <th class="tg-s268">I will be a Teaching Assistant, for Graduate <a href="https://ntunlpsg.github.io/deep-nlp/"> Deep Learning Course of NLP </a>, NTU</th>
   </tr>
   <tr>
