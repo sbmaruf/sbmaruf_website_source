@@ -7,6 +7,9 @@ date = 2019-01-25T00:00:00
 
 <table class="tg">
   <tr>
+    <th class="tg-s268" width="20%">3-Aug</th>
+    <th class="tg-s268">I will be starting my internship at Amazon, with <a href="https://aws.amazon.com/lex/">Lex Team</a>. </th>
+  <tr>
     <th class="tg-s268" width="20%">28-Apr</th>
     <th class="tg-s268">Preprint of our new paper <a href="https://arxiv.org/abs/2004.13889">LNMap</a> released in Arxiv. </th>
   </tr>
