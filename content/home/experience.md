@@ -35,11 +35,20 @@ date_format = "January 2, 2006"
 [[experience]]
   title = "Phd Student"
   company = "Nanyang Technological University"
-  company_url = "http://scse.ntu.edu.sg/Pages/Home.aspxA"
+  company_url = "http://scse.ntu.edu.sg/Pages/Home.aspx"
   location = "Singapore"
   date_start = "2019-01-15"
   date_end = ""
-  description = """Doing research on Deep NLP models."""
+  description = """Doing Low-resource Cross-lingual research in NLP on the basis of Second Language Acquisition (SLA)."""
+
+[[experience]]
+  title = "Applied Scientist Intern"
+  company = "Lex Team, Amazon Web Services, Inc."
+  company_url = "https://aws.amazon.com/lex/"
+  location = "East Palo Alto, CA (WFH)"
+  date_start = "2020-08-03"
+  date_end = "2020-11-06"
+  description = """Doing research on Cross-lingual Lex Bot."""
 
 [[experience]]
   title = "Lecturer"
