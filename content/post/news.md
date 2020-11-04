@@ -7,6 +7,9 @@ date = 2019-01-25T00:00:00
 
 <table class="tg">
   <tr>
+    <th class="tg-s268" width="20%">15-Oct</th>
+    <th class="tg-s268">Our paper <a href="https://arxiv.org/abs/2004.13889">LNMap</a> is accepted in EMNLP-2020. </th>
+  <tr>
     <th class="tg-s268" width="20%">03-Aug</th>
     <th class="tg-s268">I will be starting my internship at Amazon, with <a href="https://aws.amazon.com/lex/">Lex Team</a>. </th>
   <tr>
