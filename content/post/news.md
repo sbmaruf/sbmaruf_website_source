@@ -9,15 +9,19 @@ date = 2019-01-25T00:00:00
   <tr>
     <th> class="tg-s268" width="20%">6-Nov</th>
     <th> class="tg-s268">Get back to the PhD study after completing my internship with <a href="https://aws.amazon.com/lex/">Amazon Lex Team</a>. </th>
+  </tr>
   <tr>
     <th class="tg-s268" width="20%">15-Oct</th>
     <th class="tg-s268">Our paper <a href="https://arxiv.org/abs/2004.13889">LNMap</a> is accepted in EMNLP-2020. </th>
+  </tr>
   <tr>
     <th class="tg-s268" width="20%">03-Aug</th>
     <th class="tg-s268">I will be starting my internship at Amazon, with <a href="https://aws.amazon.com/lex/">Lex Team</a>. </th>
+  </tr>
   <tr>
     <th class="tg-s268" width="20%">28-Aug</th>
     <th class="tg-s268">Passed my PhD Qualifying Examination (QE). </th>
+  </tr>
   <tr>
     <th class="tg-s268" width="20%">28-Apr</th>
     <th class="tg-s268">Preprint of our new paper <a href="https://arxiv.org/abs/2004.13889">LNMap</a> released in Arxiv. </th>
