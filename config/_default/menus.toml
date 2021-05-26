@@ -48,3 +48,8 @@
    name = "News"
    url = "/post/news"
    weight = 70
+
+[[main]]
+   name = "Awards"
+   url = "/post/awards"
+   weight = 80

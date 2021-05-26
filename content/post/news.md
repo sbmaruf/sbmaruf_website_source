@@ -3,9 +3,20 @@ title = "News"
 date = 2019-01-25T00:00:00
 +++
 
+# 2021
+
+<table class="tg">
+  <tr>
+    <th class="tg-s268" width="20%">5-May</th>
+    <th class="tg-s268">Two paper got accepted in <a href="https://2021.aclweb.org/">ACL-IJCNLP-2021 </a>. </th>
+  </tr>
+</table>
+
+
 # 2020
 
 <table class="tg">
+ 
   <tr>
     <th class="tg-s268" width="20%">6-Nov</th>
     <th class="tg-s268">Get back to the PhD study after completing my internship with <a href="https://aws.amazon.com/lex/">Amazon Lex Team</a>. </th>
@@ -41,14 +52,10 @@ date = 2019-01-25T00:00:00
     <th class="tg-s268">Presenting <a href="https://arxiv.org/abs/1911.09812">our Cross-lingual-NER</a> paper on AAAI-2020. </th>
   </tr>
   <tr>
-    <th class="tg-s268">14-Dec</th>
+    <th class="tg-s268">4-Jan</th>
     <th class="tg-s268">Got AAAI-2020 travel scholarship. See you in New York. </th>
   </tr>
-  <tr>
-    <th class="tg-s268">11-Nov</th>
-    <th class="tg-s268"><a href="https://arxiv.org/abs/1911.09812">A  paper</a> accepted on <a href="https://aaai.org/Conferences/AAAI-20/">AAAI 2020.</a> </th>
-  </tr>
-  </table>
+</table>
 
 
 # 2019

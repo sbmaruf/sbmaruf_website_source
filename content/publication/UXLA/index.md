@@ -1,5 +1,5 @@
 +++
-title = "MultiMix: A Robust Data Augmentation Framework for Cross-Lingual NLP"
+title = "UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resouce Cross-Lingual NLP"
 date = 2020-04-30T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -17,14 +17,14 @@ authors = ["M Saiful Bari", "Tasnim Mohiuddin", "Shafiq Joty"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Arxiv"
-publication_short = "In *pre-print*"
+publication = "The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing, 2021"
+publication_short = "In *ACL-IJCNLP-2021*"
 
 # Abstract.
-abstract = "Transfer learning has yielded state-of-the-art (SoTA) results in many supervised natural language processing tasks. However, annotated data for every target task in every target language is rare, especially for low-resource languages. We propose MultiMix, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios. In particular, MultiMix targets to solve cross-lingual adaptation problems from a source language distribution to an unknown target language distribution, assuming no training labels are available for the target language task. At its core, MultiMix performs simultaneous self-training with data augmentation and unsupervised sample selection. To show its effectiveness, we conduct extensive experiments on zero-resource cross-lingual transfer tasks for Named Entity Recognition and Natural Language Inference. MultiMix achieves SoTA results in both tasks, outperforming the baselines by a good margin. With an in-depth model dissection, we demonstrate the cumulative contributions of different components to MultiMix's success."
+abstract = "Transfer learning has yielded state-of-the-art (SoTA) results in many supervised NLP tasks. However,  annotated data for every target task in every target language is rare, especially for low-resource languages. We propose UXLA, a novel unsupervised data augmentation framework for zero-resource transfer learning scenarios. In particular, UXLA aims to solve cross-lingual adaptation problems from a source language task distribution to an unknown target language task distribution, assuming no training label in the target language. At its core, UXLA performs simultaneous self-training with data augmentation and unsupervised sample selection. To show its effectiveness, we conduct extensive experiments on three diverse zero-resource cross-lingual transfer tasks. UXLA achieves SoTA results in all the tasks, outperforming the baselines by a good margin. With an in-depth framework dissection, we demonstrate the cumulative contributions of different components to its success."
 
 # Summary. An optional shortened abstract.
-summary = "We propose MultiMix, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios."
+summary = "We propose UXLA, a novel data augmentation framework for self-supervised learning in zero-resource transfer learning scenarios."
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -51,7 +51,7 @@ url_pdf = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{name = "Website", url = "https://www.taylorfrancis.com/books/9780429820915"}]
-links = [{name = "Paper", url = "https://arxiv.org/pdf/2004.13240.pdf"}]
+links = [{name = "Paper", url = ""}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -60,7 +60,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**MultiMix**](https://arxiv.org/pdf/2004.13240.pdf)"
+  caption = "Image credit: [**Augvic**]()"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
