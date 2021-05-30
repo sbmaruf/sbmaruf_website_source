@@ -18,7 +18,7 @@ location = "Virtual, Zoom Meeting"
 
 # Name of event and optional event URL.
 event = "IUT Machine Learning Reading Group"
-event_url = "https://ntunlpsg.github.io/post/reading-group/"
+event_url = ""
 
 # Abstract. What's your talk about?
 abstract = ""
