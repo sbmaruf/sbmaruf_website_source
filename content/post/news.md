@@ -7,8 +7,12 @@ date = 2019-01-25T00:00:00
 
 <table class="tg">
   <tr>
-    <th class="tg-s268" width="20%">5-May</th>
-    <th class="tg-s268">Two paper got accepted in <a href="https://2021.aclweb.org/">ACL-IJCNLP-2021 </a>. </th>
+    <th class="tg-s268" width="20%">25-Aug</th> 
+    <th class="tg-s268">My internship work got accepted as a <a href="https://arxiv.org/abs/2109.02221"> short paper </a> in EMNLP. </th>
+  </tr>
+  <tr>
+    <th class="tg-s268" width="20%">3-May</th> 
+    <th class="tg-s268">Two paper <a href="https://arxiv.org/abs/2004.13240">UXLA</a> and <a href="https://arxiv.org/abs/2106.05141">AugVic</a> got accepted in <a href="https://2021.aclweb.org/">ACL-IJCNLP-2021 </a>. </th>
   </tr>
 </table>
 

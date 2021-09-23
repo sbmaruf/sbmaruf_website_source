@@ -51,7 +51,7 @@ url_pdf = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{name = "Website", url = "https://www.taylorfrancis.com/books/9780429820915"}]
-links = [{name = "Paper", url = ""}]
+links = [{name = "Paper", url = "https://arxiv.org/abs/2004.13240"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
