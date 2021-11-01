@@ -48,6 +48,11 @@ user_groups = ["Researchers"]
   institution = "Islamic University of Technology"
   year = 2016
 
+[[education.courses]]
+  course = "Ph.D. Candidate"
+  institution = "Nanyang Technological University"
+  year = 2020
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
