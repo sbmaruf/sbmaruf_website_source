@@ -8,7 +8,7 @@ date = 2019-01-25T00:00:00
 <table class="tg">
   <tr>
     <th class="tg-s268" width="20%">15-Oct</th>
-    <th class="tg-s268">Our paper <a href="https://arxiv.org/abs/2110.08207">Multitask Prompted Training Enables Zero-Shot Task Generalization</a> got accepted in ICLR 2022. </th>
+    <th class="tg-s268">Our paper <a href="https://arxiv.org/abs/2110.08207">T0++</a> got accepted in ICLR 2022. </th>
   </tr>
   <tr>
     <th class="tg-s268" width="20%">15-Oct</th>
