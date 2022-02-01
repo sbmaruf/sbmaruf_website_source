@@ -50,6 +50,15 @@ date_format = "January 2, 2006"
   date_end = "2020-11-06"
   description = """Doing research on Cross-lingual Lex Bot."""
 
+  [[experience]]
+  title = "Applied Scientist Intern (Part Time)"
+  company = "Lex Team, Amazon Web Services, Inc."
+  company_url = "https://aws.amazon.com/lex/"
+  location = "East Palo Alto, CA (WFH)"
+  date_start = "2021-07-01"
+  date_end = "2022-01-28"
+  description = """Cross-lingual Transfer learning under low resource and low parameter scenario."""
+
 [[experience]]
   title = "Lecturer"
   company = "Southeast University"
