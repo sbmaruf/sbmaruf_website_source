@@ -1,9 +1,9 @@
 +++
-title = "Multitask Prompted Training Enables Zero-Shot Task Generalization"
-date = 2021-10-15T00:00:00
+title = "PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts"
+date = 2022-02-02T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Victor Sanh", "Albert Webson", "Colin Raffel", "Stephen H. Bach", "Lintang Sutawika", "Zaid Alyafeai", "Antoine Chaffin", "Arnaud Stiegler", "Teven Le Scao", "Arun Raja", "Manan Dey", "M Saiful Bari", "Canwen Xu", "Urmish Thakker", "Shanya Sharma Sharma", "Eliza Szczechla", "Taewoon Kim", "Gunjan Chhablani", "Nihal Nayak", "Debajyoti Datta", "Jonathan Chang", "Mike Tian-Jian Jiang", "Han Wang", "Matteo Manica", "Sheng Shen", "Zheng Xin Yong", "Harshit Pandey", "Rachel Bawden", "Thomas Wang", "Trishala Neeraj", "Jos Rozen", "Abheesht Sharma", "Andrea Santilli", "Thibault Fevry", "Jason Alan Fries", "Ryan Teehan", "Stella Biderman", "Leo Gao", "Tali Bers", "Thomas Wolf", "Alexander M. Rush"]
+authors = ["Stephen H. Bach", "Victor Sanh", "Zheng-Xin Yong", "Albert Webson", "Colin Raffel", "Nihal V. Nayak", "Abheesht Sharma", "Taewoon Kim", "M Saiful Bari", "Thibault Fevry", "Zaid Alyafeai", "Manan Dey", "Andrea Santilli", "Zhiqing Sun", "Srulik Ben-David", "Canwen Xu", "Gunjan Chhablani", "Han Wang", "Jason Alan Fries", "Maged S. Al-shaibani", "Shanya Sharma", "Urmish Thakker", "Khalid Almubarak", "Xiangru Tang", "Xiangru Tang", "Mike Tian-Jian Jiang", "Alexander M. Rush"]
 
 # Publication type.
 # Legend:
@@ -17,14 +17,14 @@ authors = ["Victor Sanh", "Albert Webson", "Colin Raffel", "Stephen H. Bach", "L
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Learning Representations"
-publication_short = "ICLR"
+publication = "Arxiv-preprint"
+publication_short = "Arxiv"
 
 # Abstract.
 abstract = "Large language models have recently been shown to attain reasonable zero-shot generalization on a diverse set of tasks. It has been hypothesized that this is a consequence of implicit multitask learning in language model training. Can zero-shot generalization instead be directly induced by explicit multitask learning? To test this question at scale, we develop a system for easily mapping general natural language tasks into a human-readable prompted form. We convert a large set of supervised datasets, each with multiple prompts using varying natural language. These prompted datasets allow for benchmarking the ability of a model to perform completely unseen tasks specified in natural language. We fine-tune a pretrained encoder-decoder model on this multitask mixture covering a wide variety of tasks. The model attains strong zero-shot performance on several standard datasets, often outperforming models 16x its size. Further, our approach attains strong performance on a subset of tasks from the BIG-Bench benchmark, outperforming models 6x its size. All prompts and trained models are available."
 
 # Summary. An optional shortened abstract.
-summary = "T0 shows zero-shot task generalization on English natural language prompts, outperforming GPT-3 on many tasks, while being 16x smaller!"
+summary = "Over 2,000 prompts for roughly 170 datasets are available through PromptSource framework."
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -45,13 +45,13 @@ tags = ["deep-learning", "language-model"]
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2110.08207"
+url_pdf = "https://arxiv.org/abs/2202.01279"
 
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{name = "Website", url = "https://www.taylorfrancis.com/books/9780429820915"}]
-links = [{name = "Paper", url = "https://arxiv.org/abs/2110.08207"}]
+links = [{name = "Github", url = "https://github.com/bigscience-workshop/promptsource"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
