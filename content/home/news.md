@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-# 2021
+# 2022
 
 <table class="tg">
   <tr>
@@ -39,6 +39,12 @@ design:
     <th class="tg-s268" width="20%">2-Feb</th>
     <th class="tg-s268">Check out my recent <a href="https://www.dropbox.com/s/i4phu8i9n58v7kd/T0pp.pdf">talk</a> on <a href="https://arxiv.org/abs/2110.08207">T0++</a> paper. </th>
   </tr>
+</table>
+
+
+# 2021
+
+<table class="tg">
   <tr>
     <th class="tg-s268" width="20%">19-Jan</th>
     <th class="tg-s268">Our paper <a href="https://arxiv.org/abs/2110.08207">T0++</a> got accepted as a spotlight paper at ICLR'22 </th>
