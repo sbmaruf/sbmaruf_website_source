@@ -64,14 +64,15 @@ user_groups = ["Researchers"]
 #   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  link = "https://facebook.com/m.sbmaruf"
+  
+[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/sbmaruf"
 
-[[social]]
-  icon = "stack-overflow"
-  icon_pack = "fab"
-  link = "https://stackoverflow.com/users/2277037/maruf"
 
 [[social]]
   icon = "envelope"
@@ -83,16 +84,17 @@ user_groups = ["Researchers"]
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/sbmaruf/"
 
+[[social]]
+  icon = "stack-overflow"
+  icon_pack = "fab"
+  link = "https://stackoverflow.com/users/2277037/maruf"
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/sbmaruf"
 
-[[social]]
-  icon = "facebook"
-  icon_pack = "fab"
-  link = "https://facebook.com/m.sbmaruf"
+
 
 
 
