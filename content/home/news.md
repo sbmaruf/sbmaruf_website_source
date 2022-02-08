@@ -32,6 +32,14 @@ design:
 
 <table class="tg">
   <tr>
+    <th class="tg-s268" width="20%">7-Feb</th>
+    <th class="tg-s268">Check out our pre-print <a href="https://arxiv.org/abs/2202.01279">PromptSource</a> paper. </th>
+  </tr>
+  <tr>
+    <th class="tg-s268" width="20%">2-Feb</th>
+    <th class="tg-s268">Check out my recent <a href="https://www.dropbox.com/s/i4phu8i9n58v7kd/T0pp.pdf">talk</a> on T0++ paper. </th>
+  </tr>
+  <tr>
     <th class="tg-s268" width="20%">19-Jan</th>
     <th class="tg-s268">Our paper <a href="https://arxiv.org/abs/2110.08207">T0++</a> got accepted as a spotlight paper at ICLR'22 </th>
   </tr>
