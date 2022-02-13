@@ -66,7 +66,7 @@ user_groups = ["Researchers"]
 [[social]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  link = "https://facebook.com/m.sbmaruf"
+  link = "https://scholar.google.com/citations?user=xVp48HAAAAAJ"
   
 [[social]]
   icon = "github"
