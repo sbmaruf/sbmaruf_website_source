@@ -32,6 +32,10 @@ design:
 
 <table class="tg">
   <tr>
+    <th class="tg-s268" width="20%">11-Apr</th>
+    <th class="tg-s268">Check out our new ACL'22 workshop paper <a href="https://openreview.net/pdf?id=rI7BL3fHIZq">What Language Model to Train if You Have One Million GPU Hours?</a>. </th>
+  </tr>
+  <tr>
     <th class="tg-s268" width="20%">7-Feb</th>
     <th class="tg-s268">Check out our pre-print <a href="https://arxiv.org/abs/2202.01279">PromptSource</a> paper. </th>
   </tr>
