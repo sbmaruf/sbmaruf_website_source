@@ -59,6 +59,15 @@ date_format = "January 2, 2006"
   date_end = "2022-01-28"
   description = """Cross-lingual Transfer learning under low resource and low parameter scenario."""
 
+  [[experience]]
+  title = "Applied Scientist Intern"
+  company = "Amazon Development Center U.S., Inc."
+  company_url = "https://aws.amazon.com"
+  location = "Santa Clara, CA"
+  date_start = "2022-07-05"
+  date_end = "2022-10-10"
+  description = """Currently Ongoing."""
+
 [[experience]]
   title = "Lecturer"
   company = "Southeast University"
