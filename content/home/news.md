@@ -32,6 +32,14 @@ design:
 
 <table class="tg">
   <tr>
+    <th class="tg-s268" width="20%">3 Nov</th>
+    <th class="tg-s268">Check out our recent pre-print <a href="https://arxiv.org/abs/2211.01786">Crosslingual Generalization through Multitask Finetuning</a> paper.</th>
+  </tr>
+  <tr>
+    <th class="tg-s268" width="20%">1-Oct</th>
+    <th class="tg-s268">Our paper (<a href="https://arxiv.org/abs/2210.15424">What Language Model to Train if You Have One Million GPU Hours?</a>) got accepted at EMNLP'22 findings.</th>
+  </tr>
+  <tr>
     <th class="tg-s268" width="20%">05-Jul</th>
     <th class="tg-s268">Joined Amazon <a href="https://d2l.ai/">d2l</a> team as a summer intern.</th>
   </tr>
@@ -54,7 +62,7 @@ design:
 
 <table class="tg">
   <tr>
-    <th class="tg-s268" width="20%">19-Jan</th>
+    <th class="tg-s268" width="20%">19-Nov</th>
     <th class="tg-s268">Our paper <a href="https://arxiv.org/abs/2110.08207">T0++</a> got accepted as a spotlight paper at ICLR'22 </th>
   </tr>
   <tr>
