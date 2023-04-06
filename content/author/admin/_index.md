@@ -103,7 +103,7 @@ user_groups = ["Researchers"]
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "bari0001@e.ntu.edu.sg.pdf"
+  link = "M_Saiful_Bari_CV.pdf"
 
 +++
 
