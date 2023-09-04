@@ -1,5 +1,5 @@
 +++
-title = "Multitask Prompted Training Enables Zero-Shot Task Generalization"
+title = "Crosslingual Generalization through Multitask Finetuning"
 date = 2022-11-03T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

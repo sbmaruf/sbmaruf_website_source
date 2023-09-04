@@ -34,7 +34,7 @@ design:
 
   <tr>
     <th class="tg-s268" width="20%">6 Aug</th>
-    <th class="tg-s268">Joined <a href="https://sdaia.gov.sa/en/default.aspx">SDAIA</a> as a Senior Resarch Scientist</th>
+    <th class="tg-s268">Joined <a href="https://sdaia.gov.sa/en/default.aspx">SDAIA</a>content/home/news.md as a Senior Resarch Scientist</th>
   </tr>
 
   <tr>
