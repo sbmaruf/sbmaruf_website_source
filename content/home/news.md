@@ -31,9 +31,15 @@ design:
 # 2023
 
 <table class="tg">
+
+  <tr>
+    <th class="tg-s268" width="20%">6 Aug</th>
+    <th class="tg-s268">Joined <a href="https://sdaia.gov.sa/en/default.aspx">SDAIA</a> as a Senior Resarch Scientist</th>
+  </tr>
+
   <tr>
     <th class="tg-s268" width="20%">7 May</th>
-    <th class="tg-s268">Three paper accepted at <a href="https://2023.aclweb.org/">ACL'23</a>. See you at Toronto. More on this coming soon.</th>
+    <th class="tg-s268">Three paper accepted at <a href="https://2023.aclweb.org/">ACL'23</a>. See you at Toronto.</th>
   </tr>
 
   <tr>

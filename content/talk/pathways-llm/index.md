@@ -14,11 +14,11 @@ publishDate = 2023-05-01
 authors = ["M Saiful Bari"]
 
 # Location of event.
-location = "Cohere Discord Channel"
+location = "Cohere for AI"
 
 # Name of event and optional event URL.
 event = "Cohere for AI, Community Talk."
-event_url = "https://discord.com/events/987824841656791130/1110996939169878079"
+event_url = ""
 
 # Abstract. What's your talk about?
 abstract = "The enduring question of \"How can we learn so much from so little\" has been at the forefront of transfer learning research. While the concept of \"little\" is constantly evolving in terms of resources, data, and inference, the question has remained intriguing over the past decade. In this talk, I will attempt to trace the history of transfer learning from Long Short-Term Memory (LSTM) to our recent Large Language Models (LLMs). As we continue to scale language models, the transferability of knowledge appears to automate and acquire a more mysterious quality, potentially harboring emergent capabilities. Nevertheless, semi-supervised learning has become more robust than ever, thanks to the enhanced generative capabilities of large LLMs. By connecting traditional semi-supervised learning with simple techniques, my aim in this talk is to propose a direction for constructing cost-effective Neural Models and introduce the concept of semi-unsupervised learning. Lastly, I will conclude by offering new ideas to the research community @foraiml, in hopes of inspiring further exploration in this area."

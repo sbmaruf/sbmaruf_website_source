@@ -32,14 +32,14 @@ date_format = "January 2, 2006"
   * Maintain group web-site
   """
 
-[[experience]]
-  title = "Phd Student"
-  company = "Nanyang Technological University"
-  company_url = "http://scse.ntu.edu.sg/Pages/Home.aspx"
-  location = "Singapore"
-  date_start = "2019-01-15"
-  date_end = ""
-  description = """Doing Low-resource Cross-lingual research in NLP on the basis of Second Language Acquisition (SLA)."""
+# [[experience]]
+#   title = "Phd Student"
+#   company = "Nanyang Technological University"
+#   company_url = "http://scse.ntu.edu.sg/Pages/Home.aspx"
+#   location = "Singapore"
+#   date_start = "2019-01-15"
+#   date_end = "2023-08-31"
+#   description = """Doing Low-resource Cross-lingual research in NLP on the basis of Second Language Acquisition (SLA)."""
 
 [[experience]]
   title = "Applied Scientist Intern"
@@ -68,18 +68,18 @@ date_format = "January 2, 2006"
   date_end = "2022-10-10"
   description = """Currently Ongoing."""
 
-[[experience]]
-  title = "Lecturer"
-  company = "Southeast University"
-  company_url = "https://seu.edu.bd/"
-  location = "Bangladesh"
-  date_start = "2017-06-15"
-  date_end = "2017-09-15"
-  description = """Teaching undergradute CS student.<br>
-  Subject tought:<br>
-  * Introduction to C <br>
-  * Algorithms <br>
-  """
+# [[experience]]
+#   title = "Lecturer"
+#   company = "Southeast University"
+#   company_url = "https://seu.edu.bd/"
+#   location = "Bangladesh"
+#   date_start = "2017-06-15"
+#   date_end = "2017-09-15"
+#   description = """Teaching undergradute CS student.<br>
+#   Subject tought:<br>
+#   * Introduction to C <br>
+#   * Algorithms <br>
+#   """
 
 [[experience]]
   title = "Software Engineering Intern"
@@ -91,13 +91,13 @@ date_format = "January 2, 2006"
   description = """Worked on an early startup where the key responsibility was to design the architecture of sports analytic and Translation System.
   """
 
-[[experience]]
-  title = "Software Engineering Intern"
-  company = "XeonBD"
-  company_url = "https://www.xeonbd.com/"
-  location = "Bangladesh"
-  date_start = "2015-11-01"
-  date_end = "2015-12-31"
-  description = """Worked on kernel virtualization and cloud computing."""
+# [[experience]]
+#   title = "Software Engineering Intern"
+#   company = "XeonBD"
+#   company_url = "https://www.xeonbd.com/"
+#   location = "Bangladesh"
+#   date_start = "2015-11-01"
+#   date_end = "2015-12-31"
+#   description = """Worked on kernel virtualization and cloud computing."""
 
 +++

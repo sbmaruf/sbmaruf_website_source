@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Ph.D. Candidate"
+role = "Senior Research Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Nanyang Technological University", url = "" } ]
+organizations = [ { name = "Saudi Authority for Data and Artificial Intelligence", url = "https://sdaia.gov.sa/en/default.aspx" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Computer Science enthusiast working in deep learning, natural language processing."
@@ -25,7 +25,14 @@ email = "bari0001@e.ntu.edu.sg"
 interests = [
   "Artificial Intelligence",
   "Deep Learning",
-  "Natural Language Processing"
+  "Natural Language Processing",
+]
+
+major_interests = [
+  "Large Language Models (LLMs)",
+  "Multi-lingual NLP (Machine Translation, Cross-lingual tasks)",
+  "NLP for Programming",
+  "LLM Safety/Alignment Research"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -43,15 +50,15 @@ user_groups = ["Researchers"]
 #  institution = "Nanyang Technological University"
 #  year = Current
 
-[[education.courses]]
-  course = "B.Sc in Computer Science and Engineering"
-  institution = "Islamic University of Technology"
-  year = 2016
+# [[education.courses]]
+#   course = "B.Sc in Computer Science and Engineering"
+#   institution = "Islamic University of Technology"
+#   year = 2016
 
-[[education.courses]]
-  course = "Ph.D. Candidate"
-  institution = "Nanyang Technological University"
-  year = 2020
+# [[education.courses]]
+#   course = "Ph.D. Candidate"
+#   institution = "Nanyang Technological University"
+#   year = 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -107,4 +114,4 @@ user_groups = ["Researchers"]
 
 +++
 
-I am `M Saiful Bari`. You may also call me `Maruf`. I am a doctoral candidate at NTU, Singapore. My supervisor is [Prof. Dr. Shafiq Joty](https://raihanjoty.github.io/). My research objective is to develop deep models that have the notion of humanity (brain motivated). I spend a huge amount of time and effort exploring unsupervised training and their potential contribution to the generalizability and distributional shift of the language model (LM). In my early work, I investigated adversarial training and semi-supervised learning to transfer knowledge from a high resource to a low resource language. My recent work largely involves efficient transductive few-shot inference and parameter efficient multitask inference via prompt tuning. At the core of my work, I investigate distribution shifts between training vs inference data and how we can solve this distributional shift using various methods (i.e., semi-supervised learning, multitask discrete prompting, data distillation, model distillation). I love tooling, debugging and training large language models.
+I'm is a Senior Research Scientist at [SDAIA](https://sdaia.gov.sa/en/default.aspx). I obtained my Ph.D. from `Nanyang Technological University (NTU)` advised by [Prof. Dr. Shafiq Joty](https://raihanjoty.github.io/). My research objective is to develop deep models that have the notion of humanity. I spend a huge amount of time and effort exploring unsupervised training and their potential contribution to the generalizability and distributional shift of the language model (LM).At the core of my work, I investigate distribution shifts between training and inference data and explore how we can address this distributional shift using various methods, such as semi-supervised learning, multitask discrete prompting, data distillation, and model distillation.. Additionally, I was a key contributor to the BLOOM architecture, training and prompt engineering working group. I love tooling, debugging and training large language models.
