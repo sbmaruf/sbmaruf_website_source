@@ -28,13 +28,30 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
+# 2024
+
+<table class="tg">
+
+  <tr>
+    <th class="tg-s268" width="20%">22 May</th>
+    <th class="tg-s268"> My lab's alignment work was recently released. ALLaM was revealed at <a href="https://mea.newsroom.ibm.com/sdaia-launches-allam-on-watsonx">IBM Think <a href="https://www.youtube.com/watch?v=NdoScvKnFGo">[Youtube Link]</a>. ALLaM is a nationwide LLM effort of Saudi Arabia. Paper coming soon ...</th>
+  </tr>
+
+  <tr>
+    <th class="tg-s268" width="20%">16 May</th>
+    <th class="tg-s268">Two paper accepted at <a href="https://2023.aclweb.org/">ACL'24</a>. See you at Bangkok.</th>
+  </tr>
+
+</table>
+
+
 # 2023
 
 <table class="tg">
 
   <tr>
     <th class="tg-s268" width="20%">6 Aug</th>
-    <th class="tg-s268">Joined <a href="https://sdaia.gov.sa/en/default.aspx">SDAIA</a>content/home/news.md as a Senior Resarch Scientist</th>
+    <th class="tg-s268">Joined <a href="https://sdaia.gov.sa/en/default.aspx">SDAIA</a> as a Senior Resarch Scientist</th>
   </tr>
 
   <tr>
