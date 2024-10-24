@@ -91,6 +91,23 @@ date_format = "January 2, 2006"
   description = """Worked on an early startup where the key responsibility was to design the architecture of sports analytic and Translation System.
   """
 
+[[experience]]
+  title = "Senior Research Scientist"
+  company = "National Center for Artificial Intelligence (NCAI), SDAIA"
+  company_url = "https://sdaia.gov.sa/en/default.aspx"
+  location = "Saudi Arabia"
+  date_start = "2023-08-06"
+  date_end = ""
+  description = """Currently:<br>
+- I'm the Core maintainer of ALLaM<br>
+- I lead the Training Team of ALLaM<br>
+<br>
+My current reasearch interest is: <br>
+- Anatomy of Pretraining<br>
+- Alignment of LLMs. (see: T0, BLOOMZ, SPT)<br>
+- Robust evaluation of frontier models. (see: xCodeEval , ChatGPTEval) 
+  """
+
 # [[experience]]
 #   title = "Software Engineering Intern"
 #   company = "XeonBD"
@@ -101,3 +118,5 @@ date_format = "January 2, 2006"
 #   description = """Worked on kernel virtualization and cloud computing."""
 
 +++
+
+
