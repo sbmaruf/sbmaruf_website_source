@@ -31,12 +31,30 @@ design:
 # 2024
 
 <table class="tg">
-
+  <tr>
+      <th class="tg-s268" width="20%">17 October</th>
+      <th class="tg-s268">One paper has been accepted at EMNLP 2024 on <a href="https://arxiv.org/pdf/2407.04069">ALLaM</a>. See you in Miami.</th>
+  </tr>
+  <tr>
+      <th class="tg-s268" width="20%">13 October</th>
+      <th class="tg-s268">Our paper on scaling evaluation (`scalable oversight`) for frontier-class models has just <a href="https://openreview.net/forum?id=YGDWW6rzYX">dropped</a>. Feel free to reach out to me for details.</th>
+  </tr>
+  <tr>
+      <th class="tg-s268" width="20%">10 October</th>
+      <th class="tg-s268">We announced <a href="https://arxiv.org/abs/2407.15390">ALLaM</a> during the keynote of the Global AI Summit as one of the main priorities for sovereign AI in the Kingdom of Saudi Arabia. We also released the model and evaluation details for the 34B pretraining from scratch model. <a href="https://www.youtube.com/watch?v=Mvya_a0OA-0&t=28846s">Keynote [YouTube Link]</a>.</th>
+  </tr>
+  <tr>
+      <th class="tg-s268" width="20%">22 July</th>
+      <th class="tg-s268">We released our technical paper on <a href="https://arxiv.org/abs/2407.15390">ALLaM</a>. Feel free to reach out to me if you have any queries.</th>
+  </tr>
   <tr>
     <th class="tg-s268" width="20%">22 May</th>
     <th class="tg-s268"> My lab's alignment work was recently released. ALLaM was revealed at <a href="https://mea.newsroom.ibm.com/sdaia-launches-allam-on-watsonx">IBM Think <a href="https://www.youtube.com/watch?v=NdoScvKnFGo"> Keynote [Youtube Link]</a>. ALLaM is a nationwide LLM effort of Saudi Arabia. Paper coming soon ...</th>
   </tr>
-
+  <tr>
+    <th class="tg-s268" width="20%">15 May</th>
+    <th class="tg-s268">Our paper on <a href="https://arxiv.org/pdf/2407.04069">xCodeEval</a> has been accepted at ACL 2024. Unfortunately, I won't be traveling to Thailand :(.</th>
+  </tr>
   <tr>
     <th class="tg-s268" width="20%">16 May</th>
     <th class="tg-s268">Two paper accepted at <a href="https://2023.aclweb.org/">ACL'24</a>. See you at Bangkok.</th>
