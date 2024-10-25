@@ -17,14 +17,14 @@ authors = []
 location = "Amazon Web Service"
 
 # Name of event and optional event URL.
-event = "MICL Reading Group"
-event_url = "https://ntunlpsg.github.io/post/reading-group/"
+event = ""
+event_url = ""
 
 # Abstract. What's your talk about?
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "This talk summarizes the paper [`Effective Approaches to Attention-based Neural Machine Translation`](https://arxiv.org/abs/1508.04025)."
+summary = "The talk summarizes how ChatGPT's release marked a turning point in Generative AI, driven by refined integration of traditional methods with advanced data engineering for optimizing human preferences."
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -42,7 +42,7 @@ tags = ["Deep-Learning"]
 slides = "xxxx"
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "https://drive.google.com/file/d/1rzX97LRgtQdg6YmVeAq92oLqXGCEjhpb/view"
+url_slides = ""
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -53,7 +53,7 @@ url_slides = "https://drive.google.com/file/d/1rzX97LRgtQdg6YmVeAq92oLqXGCEjhpb/
 projects = ["deep-learning", "machine-translation"]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1rzX97LRgtQdg6YmVeAq92oLqXGCEjhpb/view"
+url_pdf = ""
 url_video = ""
 url_code = ""
 
