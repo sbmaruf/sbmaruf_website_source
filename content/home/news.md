@@ -33,7 +33,7 @@ design:
 <table class="tg">
   <tr>
       <th class="tg-s268" width="20%">17 October</th>
-      <th class="tg-s268">One paper has been accepted at EMNLP 2024 on <a href="https://arxiv.org/pdf/2407.04069">ALLaM</a>. See you in Miami.</th>
+      <th class="tg-s268">One paper has been accepted at EMNLP 2024 on <a href="https://arxiv.org/pdf/2407.04069">evaluation</a>. See you in Miami.</th>
   </tr>
   <tr>
       <th class="tg-s268" width="20%">13 October</th>

@@ -66,7 +66,7 @@ date_format = "January 2, 2006"
   location = "Santa Clara, CA"
   date_start = "2022-07-05"
   date_end = "2022-10-10"
-  description = """Currently Ongoing."""
+  description = """SPT: Semi-Parametric Prompt Tuning for Multitask Prompted Learning."""
 
 # [[experience]]
 #   title = "Lecturer"
