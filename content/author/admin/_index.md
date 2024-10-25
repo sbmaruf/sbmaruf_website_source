@@ -16,7 +16,7 @@ role = "Senior Research Scientist"
 organizations = [ { name = "Saudi Authority for Data and Artificial Intelligence", url = "https://sdaia.gov.sa/en/default.aspx" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Computer Science enthusiast working in deep learning, natural language processing."
+bio = "@NTU, Singapore, Intern'20,21,22 Amazon Web Inc. (@awscloud), T0, BLOOMZ, UXLA, xCodeEval, I train LLM at SDAIA! - Scaling Maximalist, Training lead and Core maintainer of ALLaM."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "bari0001@e.ntu.edu.sg"
