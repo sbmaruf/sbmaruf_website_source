@@ -28,6 +28,36 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
+# 2025
+<table class="tg">
+  <tr>
+      <th class="tg-s268" width="20%">May</th>
+      <th class="tg-s268">Joined Amazon AGI-F to work on Multilingual Capability of Nova.</th>
+  </tr>
+  <tr>
+      <th class="tg-s268" width="20%">May</th>
+      <th class="tg-s268">Moved to SF bay area.</th>
+  </tr>
+  <tr>
+      <th class="tg-s268" width="20%">April</th>
+      <th class="tg-s268">Left the ALLaM team (😭) at NCAI, SDAIA to join the Nova team at Amazon AGI-F. The ALLaM team has since moved to the newly formed Humain, which has raised a `$100B sovereign investment` to disrupt `GenAI` in the Middle East.</th>
+  </tr>
+  <tr>
+      <th class="tg-s268" width="20%">April</th>
+      <th class="tg-s268"> ZeroSumEval accepted as <a href="https://2025.aclweb.org/">ACL'2025</a> as Demo. Project moved to <a href="https://github.com/facebookresearch/ZeroSumEval">FAIR</a>.</th>
+  </tr>
+  <tr>
+      <th class="tg-s268" width="20%">March</th>
+      <th class="tg-s268">Checkout the fully automated agentic evaluation paper: <a href="https://arxiv.org/abs/2503.10673">ZeroSumEval: An Extensible Framework For Scaling LLM Evaluation with Inter-Model Competition</a> </th>
+  </tr>
+  <tr>
+      <th class="tg-s268" width="20%">January</th>
+      <th class="tg-s268">Checkout the new HLE benchmark. [<a href="https://arxiv.org/abs/2501.14249">paper</a>] [<a href="https://huggingface.co/datasets/cais/hle">data</a>]</th>
+  </tr>
+
+</table>
+
+
 # 2024
 
 <table class="tg">

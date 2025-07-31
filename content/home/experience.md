@@ -97,15 +97,28 @@ date_format = "January 2, 2006"
   company_url = "https://sdaia.gov.sa/en/default.aspx"
   location = "Saudi Arabia"
   date_start = "2023-08-06"
+  date_end = "2023-04-17"
+  description = """Training and Aligning Large Language Model. During my time here at NCAI, SDAIA,<br>
+- I developed the core technology behind ALLaM.<br>
+- I was the Core maintainer of ALLaM.<br>
+- I lead the Training Team of ALLaM.<br>
+For the work of ALLaM, I received [MIT TR35 (Innovator Under 35)](https://www.innovatorsunder35.com/the-list/m-saiful-bari/) award.<br>
+  """
+
+[[experience]]
+  title = "Applied Scientist"
+  company = "Amazon AGI"
+  company_url = "https://amazon.jobs/content/en/teams/agi"
+  location = "San Francisco Bay Area"
+  date_start = "2025-04-27"
   date_end = ""
   description = """Currently:<br>
-- I'm the Core maintainer of ALLaM<br>
-- I lead the Training Team of ALLaM<br>
+- I work on Multilingual Training (both `pretraining` and `post-trianing`) of Nova series model<br>
 <br>
 My current reasearch interest is: <br>
-- Anatomy of Pretraining<br>
-- Alignment of LLMs. (see: T0, BLOOMZ, SPT)<br>
-- Robust evaluation of frontier models. (see: xCodeEval , ChatGPTEval) 
+- Anatomy of Pretraining (see: [ALLaM](https://arxiv.org/abs/2407.15390), BLOOM [[1](https://arxiv.org/abs/2210.15424)] [[2](https://arxiv.org/abs/2211.05100)] )<br>
+- Alignment of LLMs. (see: [T0](https://arxiv.org/abs/2110.08207), [BLOOMZ](https://arxiv.org/abs/2211.01786), [SPT](https://arxiv.org/abs/2212.10929))<br>
+- Robust evaluation of frontier models. (see: [xCodeEval](https://arxiv.org/abs/2303.03004) , ChatGPTEval [[1](https://arxiv.org/pdf/2305.18486)] [[2](https://arxiv.org/pdf/2407.04069)] [[3](https://arxiv.org/pdf/2309.13173)])
   """
 
 # [[experience]]
