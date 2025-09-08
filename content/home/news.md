@@ -31,6 +31,10 @@ design:
 # 2025
 <table class="tg">
   <tr>
+      <th class="tg-s268" width="20%">August</th>
+      <th class="tg-s268">Working on the Ablations/Scaling Laws of the Nova series models.</th>
+  </tr>
+  <tr>
       <th class="tg-s268" width="20%">May</th>
       <th class="tg-s268">Joined Amazon AGI-F to work on <strong><code>Multilingual Capability</strong></code> of Nova series models.</th>
   </tr>

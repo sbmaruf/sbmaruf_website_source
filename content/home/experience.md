@@ -113,7 +113,8 @@ For the work of ALLaM, I received [MIT TR35 (Innovator Under 35)](https://www.in
   date_start = "2025-04-27"
   date_end = ""
   description = """Currently:<br>
-- I work on Multilingual Training (both `pretraining` and `post-trianing`) of Nova series model<br>
+- I work on Ablation/Scaling laws for Nova series model<br>
+- I worked on Multilingual Training (both `pretraining` and `post-trianing`) of Nova series model<br>
 <br>
 My current reasearch interest is: <br>
 - Anatomy of Pretraining (see: [ALLaM](https://arxiv.org/abs/2407.15390), BLOOM [[1](https://arxiv.org/abs/2210.15424)] [[2](https://arxiv.org/abs/2211.05100)] )<br>
