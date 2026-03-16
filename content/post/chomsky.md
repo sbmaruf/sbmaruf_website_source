@@ -122,4 +122,20 @@ And here I am, using the man's own hierarchy as a training schedule for the very
 
 ---
 
-*Thanks Zarzis for introducing me to Chomsky Language hierarchy.*
+Credit: *Thanks Zarzis for introducing me to Chomsky Language hierarchy.*
+
+---
+
+## Citation
+
+If you find this post useful, you can cite it as:
+
+```bibtex
+@article{bari2026chomskycurriculum,
+  title   = {On the Connection of Chomsky Hierarchy of Languages vs Data Curriculum Learning in LLMs},
+  author  = {Bari, M Saiful},
+  year    = {2026},
+  month   = {March},
+  url     = {https://sbmaruf.github.io/post/chomsky/}
+}
+```

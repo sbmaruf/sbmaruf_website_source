@@ -1,9 +1,6 @@
 +++
 title = "HONORS & AWARDS"
 date = 2019-01-25T00:00:00
-
-[_build]
-  list = "never"
 +++
 
 

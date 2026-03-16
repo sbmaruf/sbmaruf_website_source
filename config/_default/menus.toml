@@ -56,5 +56,5 @@
 
 [[main]]
    name = "Awards"
-   url = "/post/awards"
+   url = "/awards"
    weight = 80
