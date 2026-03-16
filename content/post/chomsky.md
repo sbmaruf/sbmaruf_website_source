@@ -119,3 +119,7 @@ date = 2026-03-16T00:00:00
 Chomsky famously argued that *"Colorless green ideas sleep furiously"* is grammatical but meaningless, and *"Furiously sleep ideas green colorless"* is neither grammatical nor meaningful, yet both are equally improbable statistically. His point: **grammaticality cannot be identified with statistical probability**. A sentence can be perfectly grammatical yet have zero probability in any corpus. He spent decades insisting that language is a rule-based faculty of the mind, not a pattern in data, and that statistical models of language are not models of language at all.
 
 And here I am, using the man's own hierarchy as a training schedule for the very statistical models he spent his career rejecting. Sorry, Professor. 🫡
+
+---
+
+*Thanks Zarzis for introducing me to Chomsky Language hierarchy.*
