@@ -50,6 +50,11 @@
    weight = 70
 
 [[main]]
+   name = "Blog"
+   url = "#posts"
+   weight = 75
+
+[[main]]
    name = "Awards"
    url = "/post/awards"
    weight = 80
