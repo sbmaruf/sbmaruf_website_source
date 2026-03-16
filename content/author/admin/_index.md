@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "M Saiful Bari"
+name = "M Saiful Bari (Maruf)"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Applied Scientist"
+role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Amazon AGI", url = "https://amazon.jobs/content/en/teams/agi" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "@NTU, Singapore, Intern'20,21,22 Amazon Web Inc. (@awscloud), T0, BLOOMZ, UXLA, xCodeEval, I train LLM at SDAIA! - Scaling Maximalist, Training lead and Core maintainer of ALLaM."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "bari0001@e.ntu.edu.sg"

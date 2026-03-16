@@ -1,6 +1,7 @@
 +++
 title = "What's wrong with LLM Evaluation?: Evaluation is Hard (& also Costly)."
 date = 2019-01-25T00:00:00
+draft = true
 +++
 
 Language models are trained with millions of dollars, involving very intricate engineering jobs, as well as thousands of hours of manpower and human stresses. However, day by day, the evaluation of language models is becoming so confusing and cumbersome that it becomes almost impossible to confidently say which language model is better at what. In this article, I have tried to sketch out some of my observations and findings, provide some recipes, and conclude with a call for a more rigorous approach to language model evaluation.

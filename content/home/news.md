@@ -28,8 +28,24 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
+# 2026
+<table class="tg">
+  <tr>
+      <th class="tg-s268" width="20%">March</th>
+      <th class="tg-s268">New blog post: <a href="/post/chomsky/">On the Connection of Chomsky Hierarchy of Languages vs Data Curriculum Learning in LLMs</a>. Should we show a language model the Navier-Stokes equations before it learns to add fractions?</th>
+  </tr>
+  <tr>
+      <th class="tg-s268" width="20%">January</th>
+      <th class="tg-s268">Our paper <a href="https://arxiv.org/abs/2601.13260">Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models</a> got accepted at <strong>EACL 2026</strong>.</th>
+  </tr>
+</table>
+
 # 2025
 <table class="tg">
+  <tr>
+      <th class="tg-s268" width="20%">10 December</th>
+      <th class="tg-s268">Attending <strong>NeurIPS 2025</strong> in Vancouver. See you there!</th>
+  </tr>
   <tr>
       <th class="tg-s268" width="20%">August</th>
       <th class="tg-s268">Moved to the <strong><code>Ablations/Scaling Laws</strong></code> of the Nova series models.</th>
